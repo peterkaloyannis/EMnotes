@@ -1,6 +1,6 @@
 Heyo Everyone, It's me Peter!
 
-Here is a repository I made for the notes I take in class. It will be posted on the official github of the class so that
+Here is a repository I made for the notes I take in class starting from 11/09/19. It will be posted on the official github of the class so that
 everyone has access to the notes. I will upload every day of notes with its date, and will probably forget every now and
 then so just remind me by emailing me at panagiotis.kaloyannis@mail.mcgill.ca
 
